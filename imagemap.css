@@ -1,0 +1,10 @@
+img{
+    border-radius: 50%;
+    border: 3px solid black;
+   
+}
+body{
+    text-align: center;
+    background-color: rgb(147, 95, 195);
+    background-image: linear-gradient(rgb(149, 89, 149) , rgb(119, 55, 75),red,green);
+}
